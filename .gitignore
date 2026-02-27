@@ -1,3 +1,2 @@
 *.env
-*my_chroma_db
-*retriever_chroma_db
+*_chroma_db

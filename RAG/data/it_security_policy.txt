@@ -1,0 +1,7 @@
+AcmeTech Solutions IT Security Policy
+
+Employees must not share their passwords with anyone.
+
+All systems must be locked when unattended.
+
+Sensitive data must be stored securely and encrypted where appropriate.
