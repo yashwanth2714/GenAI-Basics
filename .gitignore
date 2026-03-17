@@ -2,3 +2,4 @@
 *_chroma_db
 .venv
 *_db
+.deepeval
